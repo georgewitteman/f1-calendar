@@ -1,10 +1,9 @@
-from icalendar import Calendar, Event
 import re
-from titlecase import titlecase
-from datetime import datetime
 import urllib.request
-import pytz
 
+import pytz
+from icalendar import Calendar, Event
+from titlecase import titlecase
 
 with urllib.request.urlopen(
     "https://www.formula1.com/calendar/Formula_1_Official_Calendar.ics"
@@ -117,14 +116,12 @@ locations = {
     },
 }
 
-for tz in [l["tz"] for l in locations.values()]:
-    break
+for tz in [loc["tz"] for loc in locations.values()]:
     with urllib.request.urlopen(f"https://static.tzurl.org/zoneinfo/{tz}.ics") as f:
         tz_cal = Calendar.from_ical(f.read())
         for vtimezone in tz_cal.walk("VTIMEZONE"):
             c.add_component(vtimezone)
 
-timezones = set()
 for event in original_cal.walk(name="VEVENT"):
     e = Event()
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.7.2
@@ -133,7 +130,11 @@ for event in original_cal.walk(name="VEVENT"):
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.4.3
     e.add("organizer", "mailto:formula1@formula1.com", {"CN": "Formula 1"})
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.4.1
-    e.add("attendee", "mailto:formula1@formula1.com", {"PARTSTAT": "ACCEPTED", "CN": "Formula 1"})
+    e.add(
+        "attendee",
+        "mailto:formula1@formula1.com",
+        {"PARTSTAT": "ACCEPTED", "CN": "Formula 1"},
+    )
 
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.1.11
     e.add("status", event["status"])
@@ -146,7 +147,7 @@ for event in original_cal.walk(name="VEVENT"):
 
     # https://docs.microsoft.com/en-us/openspecs/exchange_server_protocols/ms-oxcical/cd68eae7-ed65-4dd3-8ea7-ad585c76c736
     e.add("X-MICROSOFT-CDO-BUSYSTATUS", event["X-MICROSOFT-CDO-BUSYSTATUS"])
-    
+
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.2.7
     e.add("transp", event["transp"])
 
