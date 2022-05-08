@@ -1,0 +1,4 @@
+tasks:
+  - before: pyenv install 3.10.4
+    init: pyenv global 3.10.4
+    command: python --version
