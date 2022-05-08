@@ -132,6 +132,8 @@ for event in original_cal.walk(name="VEVENT"):
 
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.4.3
     e.add("organizer", "mailto:formula1@formula1.com", {"RSVP": "TRUE", "CN": "Formula 1"})
+    # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.4.1
+    e.add("attendee", "mailto:formula1@formula1.com", {"RSVP": "TRUE", "CN": "Formula 1"})
 
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.1.11
     e.add("status", event["status"])
