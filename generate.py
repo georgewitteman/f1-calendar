@@ -23,6 +23,7 @@ c.add("prodid", "+//IDN georgewitteman.com//Formula 1 Calendar//EN")
 c.add("X-APPLE-CALENDAR-COLOR", "#E10600")
 c.add("X-WR-CALNAME", original_cal["X-WR-CALNAME"])
 
+# Time zone finder: https://www.zeitverschiebung.net/en/
 locations = {
     "Austin": {
         "location": "Circuit of The Americas",
