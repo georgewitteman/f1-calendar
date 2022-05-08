@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "f1-calendar"
+version = "0.1.0"
+description = ""
+authors = ["George Witteman <george@witteman.me>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+icalendar = "4.0"
+pytz = "^2022.1"
+titlecase = "^2.3"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
