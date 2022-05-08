@@ -10,7 +10,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220223T180000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1123
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Pre-Season Track Session. Visit the Race hu
  b here: #N/A  Want to get trackside? Purchase your F1 tickets here: https:
@@ -18,7 +18,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  x. Sign up to the newsletter here: https://account.formula1.com/#/en/regis
  ter
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -30,7 +30,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220224T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1123
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Pre-Season Track Session. Visit the Race hu
  b here: #N/A  Want to get trackside? Purchase your F1 tickets here: https:
@@ -38,7 +38,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  x. Sign up to the newsletter here: https://account.formula1.com/#/en/regis
  ter
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -50,7 +50,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220225T180000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1123
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Pre-Season Track Session. Visit the Race hu
  b here: #N/A  Want to get trackside? Purchase your F1 tickets here: https:
@@ -58,7 +58,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  x. Sign up to the newsletter here: https://account.formula1.com/#/en/regis
  ter
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,7 +70,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220310T190000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1132
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Pre-Season Test. Visit the Race hub here: h
  ttps://www.formula1.com/en/racing/2022/Pre-Season-Test.html  Want to get t
@@ -78,7 +78,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Pre-Season-Test.html
@@ -91,7 +91,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220311T190000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1132
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Pre-Season Test. Visit the Race hub here: h
  ttps://www.formula1.com/en/racing/2022/Pre-Season-Test.html  Want to get t
@@ -99,7 +99,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Pre-Season-Test.html
@@ -112,7 +112,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220312T190000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1132
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Pre-Season Test. Visit the Race hub here: h
  ttps://www.formula1.com/en/racing/2022/Pre-Season-Test.html  Want to get t
@@ -120,7 +120,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Pre-Season-Test.html
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220318T160000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1124
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Bahrain Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Bahrain.html  Want to get tracks
@@ -141,7 +141,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Bahrain.html
@@ -154,7 +154,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220318T190000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1124
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Bahrain Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Bahrain.html  Want to get tracks
@@ -162,7 +162,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Bahrain.html
@@ -175,7 +175,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220319T160000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1124
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Bahrain Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Bahrain.html  Want to get tracks
@@ -183,7 +183,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Bahrain.html
@@ -196,7 +196,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220319T190000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1124
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Bahrain Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Bahrain.html  Want to get tracks
@@ -204,7 +204,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Bahrain.html
@@ -217,7 +217,7 @@ DTEND;TZID=Asia/Bahrain;VALUE=DATE-TIME:20220320T200000
 DTSTAMP:20210311T000001Z
 UID:Race@1124
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Bahrain Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Bahrain.html  Want to get tracks
@@ -225,7 +225,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Bahrain International Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Bahrain.html
@@ -238,7 +238,7 @@ DTEND;TZID=Asia/Riyadh;VALUE=DATE-TIME:20220325T180000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1125
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Saudi Arabian Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/Saudi_Arabia.html  Want to
@@ -246,7 +246,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   the latest F1 news and content\, direct to your inbox. Sign up to the new
  sletter here: https://account.formula1.com/#/en/register
 LOCATION:Jeddah Corniche Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Saudi_Arabia.html
@@ -259,7 +259,7 @@ DTEND;TZID=Asia/Riyadh;VALUE=DATE-TIME:20220325T210000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1125
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Saudi Arabian Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/Saudi_Arabia.html  Want to
@@ -267,7 +267,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   the latest F1 news and content\, direct to your inbox. Sign up to the new
  sletter here: https://account.formula1.com/#/en/register
 LOCATION:Jeddah Corniche Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Saudi_Arabia.html
@@ -280,7 +280,7 @@ DTEND;TZID=Asia/Riyadh;VALUE=DATE-TIME:20220326T180000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1125
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Saudi Arabian Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/Saudi_Arabia.html  Want to
@@ -288,7 +288,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   the latest F1 news and content\, direct to your inbox. Sign up to the new
  sletter here: https://account.formula1.com/#/en/register
 LOCATION:Jeddah Corniche Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Saudi_Arabia.html
@@ -301,7 +301,7 @@ DTEND;TZID=Asia/Riyadh;VALUE=DATE-TIME:20220326T210000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1125
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Saudi Arabian Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/Saudi_Arabia.html  Want to
@@ -309,7 +309,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   the latest F1 news and content\, direct to your inbox. Sign up to the new
  sletter here: https://account.formula1.com/#/en/register
 LOCATION:Jeddah Corniche Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Saudi_Arabia.html
@@ -322,7 +322,7 @@ DTEND;TZID=Asia/Riyadh;VALUE=DATE-TIME:20220327T220000
 DTSTAMP:20210311T000001Z
 UID:Race@1125
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Saudi Arabian Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/Saudi_Arabia.html  Want to
@@ -330,7 +330,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   the latest F1 news and content\, direct to your inbox. Sign up to the new
  sletter here: https://account.formula1.com/#/en/register
 LOCATION:Jeddah Corniche Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Saudi_Arabia.html
@@ -343,7 +343,7 @@ DTEND;TZID=Australia/Melbourne;VALUE=DATE-TIME:20220408T140000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1108
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Australian Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Australia.html  Want to get t
@@ -351,7 +351,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Albert Park Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Australia.html
@@ -364,7 +364,7 @@ DTEND;TZID=Australia/Melbourne;VALUE=DATE-TIME:20220408T170000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1108
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Australian Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Australia.html  Want to get t
@@ -372,7 +372,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Albert Park Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Australia.html
@@ -385,7 +385,7 @@ DTEND;TZID=Australia/Melbourne;VALUE=DATE-TIME:20220409T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1108
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Australian Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Australia.html  Want to get t
@@ -393,7 +393,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Albert Park Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Australia.html
@@ -406,7 +406,7 @@ DTEND;TZID=Australia/Melbourne;VALUE=DATE-TIME:20220409T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1108
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Australian Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Australia.html  Want to get t
@@ -414,7 +414,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Albert Park Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Australia.html
@@ -427,7 +427,7 @@ DTEND;TZID=Australia/Melbourne;VALUE=DATE-TIME:20220410T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1108
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Australian Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Australia.html  Want to get t
@@ -435,7 +435,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  atest F1 news and content\, direct to your inbox. Sign up to the newslette
  r here: https://account.formula1.com/#/en/register
 LOCATION:Albert Park Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Australia.html
@@ -449,7 +449,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220422T143000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1109
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Emilia Romagna Grand Prix. Visit the Race h
  ub here: https://www.formula1.com/en/racing/2022/EmiliaRomagna.html  Want 
@@ -457,7 +457,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  et the latest F1 news and content\, direct to your inbox. Sign up to the n
  ewsletter here: https://account.formula1.com/#/en/register
 LOCATION:Autodromo Enzo e Dino Ferrari
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/EmiliaRomagna.html
@@ -471,7 +471,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220422T180000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1109
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Emilia Romagna Grand Prix. Visit the Race h
  ub here: https://www.formula1.com/en/racing/2022/EmiliaRomagna.html  Want 
@@ -479,7 +479,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  et the latest F1 news and content\, direct to your inbox. Sign up to the n
  ewsletter here: https://account.formula1.com/#/en/register
 LOCATION:Autodromo Enzo e Dino Ferrari
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/EmiliaRomagna.html
@@ -493,7 +493,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220423T133000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1109
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Emilia Romagna Grand Prix. Visit the Race h
  ub here: https://www.formula1.com/en/racing/2022/EmiliaRomagna.html  Want 
@@ -501,7 +501,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  et the latest F1 news and content\, direct to your inbox. Sign up to the n
  ewsletter here: https://account.formula1.com/#/en/register
 LOCATION:Autodromo Enzo e Dino Ferrari
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/EmiliaRomagna.html
@@ -514,7 +514,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220423T173000
 DTSTAMP:20210311T000001Z
 UID:Sprint@1109
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Emilia Romagna Grand Prix. Visit the Race h
  ub here: https://www.formula1.com/en/racing/2022/EmiliaRomagna.html  Want 
@@ -522,7 +522,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  et the latest F1 news and content\, direct to your inbox. Sign up to the n
  ewsletter here: https://account.formula1.com/#/en/register
 LOCATION:Autodromo Enzo e Dino Ferrari
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/EmiliaRomagna.html
@@ -535,7 +535,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220424T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1109
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Emilia Romagna Grand Prix. Visit the Race h
  ub here: https://www.formula1.com/en/racing/2022/EmiliaRomagna.html  Want 
@@ -543,7 +543,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  et the latest F1 news and content\, direct to your inbox. Sign up to the n
  ewsletter here: https://account.formula1.com/#/en/register
 LOCATION:Autodromo Enzo e Dino Ferrari
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/EmiliaRomagna.html
@@ -556,7 +556,7 @@ DTEND;TZID=America/New_York;VALUE=DATE-TIME:20220506T153000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1110
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Miami Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Miami.html  Want to get trackside?
@@ -564,7 +564,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  news and content\, direct to your inbox. Sign up to the newsletter here: h
  ttps://account.formula1.com/#/en/register
 LOCATION:Miami International Autodrome
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Miami.html
@@ -577,7 +577,7 @@ DTEND;TZID=America/New_York;VALUE=DATE-TIME:20220506T183000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1110
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Miami Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Miami.html  Want to get trackside?
@@ -585,7 +585,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  news and content\, direct to your inbox. Sign up to the newsletter here: h
  ttps://account.formula1.com/#/en/register
 LOCATION:Miami International Autodrome
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Miami.html
@@ -598,7 +598,7 @@ DTEND;TZID=America/New_York;VALUE=DATE-TIME:20220507T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1110
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Miami Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Miami.html  Want to get trackside?
@@ -606,7 +606,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  news and content\, direct to your inbox. Sign up to the newsletter here: h
  ttps://account.formula1.com/#/en/register
 LOCATION:Miami International Autodrome
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Miami.html
@@ -619,7 +619,7 @@ DTEND;TZID=America/New_York;VALUE=DATE-TIME:20220507T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1110
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Miami Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Miami.html  Want to get trackside?
@@ -627,7 +627,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  news and content\, direct to your inbox. Sign up to the newsletter here: h
  ttps://account.formula1.com/#/en/register
 LOCATION:Miami International Autodrome
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Miami.html
@@ -640,7 +640,7 @@ DTEND;TZID=America/New_York;VALUE=DATE-TIME:20220508T173000
 DTSTAMP:20210311T000001Z
 UID:Race@1110
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Miami Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Miami.html  Want to get trackside?
@@ -648,7 +648,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  news and content\, direct to your inbox. Sign up to the newsletter here: h
  ttps://account.formula1.com/#/en/register
 LOCATION:Miami International Autodrome
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Miami.html
@@ -661,7 +661,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220520T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1111
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Spanish Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Spain.html  Want to get tracksid
@@ -669,7 +669,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Spain.html
@@ -682,7 +682,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220520T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1111
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Spanish Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Spain.html  Want to get tracksid
@@ -690,7 +690,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Spain.html
@@ -703,7 +703,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220521T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1111
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Spanish Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Spain.html  Want to get tracksid
@@ -711,7 +711,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Spain.html
@@ -724,7 +724,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220521T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1111
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Spanish Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Spain.html  Want to get tracksid
@@ -732,7 +732,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Spain.html
@@ -745,7 +745,7 @@ DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20220522T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1111
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Spanish Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Spain.html  Want to get tracksid
@@ -753,7 +753,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Barcelona-Catalunya
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Spain.html
@@ -766,7 +766,7 @@ DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20220527T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1112
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Monaco Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/Monaco.html  Want to get tracksid
@@ -774,7 +774,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Monaco
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Monaco.html
@@ -787,7 +787,7 @@ DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20220527T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1112
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Monaco Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/Monaco.html  Want to get tracksid
@@ -795,7 +795,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Monaco
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Monaco.html
@@ -808,7 +808,7 @@ DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20220528T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1112
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Monaco Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/Monaco.html  Want to get tracksid
@@ -816,7 +816,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Monaco
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Monaco.html
@@ -829,7 +829,7 @@ DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20220528T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1112
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Monaco Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/Monaco.html  Want to get tracksid
@@ -837,7 +837,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Monaco
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Monaco.html
@@ -850,7 +850,7 @@ DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20220529T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1112
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Monaco Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/Monaco.html  Want to get tracksid
@@ -858,7 +858,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit de Monaco
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Monaco.html
@@ -871,7 +871,7 @@ DTEND;TZID=Asia/Baku;VALUE=DATE-TIME:20220610T160000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1126
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Azerbaijan Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Azerbaijan.html  Want to get 
@@ -879,7 +879,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Baku City Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Azerbaijan.html
@@ -892,7 +892,7 @@ DTEND;TZID=Asia/Baku;VALUE=DATE-TIME:20220610T190000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1126
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Azerbaijan Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Azerbaijan.html  Want to get 
@@ -900,7 +900,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Baku City Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Azerbaijan.html
@@ -913,7 +913,7 @@ DTEND;TZID=Asia/Baku;VALUE=DATE-TIME:20220611T160000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1126
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Azerbaijan Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Azerbaijan.html  Want to get 
@@ -921,7 +921,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Baku City Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Azerbaijan.html
@@ -934,7 +934,7 @@ DTEND;TZID=Asia/Baku;VALUE=DATE-TIME:20220611T190000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1126
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Azerbaijan Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Azerbaijan.html  Want to get 
@@ -942,7 +942,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Baku City Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Azerbaijan.html
@@ -955,7 +955,7 @@ DTEND;TZID=Asia/Baku;VALUE=DATE-TIME:20220612T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1126
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Azerbaijan Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Azerbaijan.html  Want to get 
@@ -963,7 +963,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Baku City Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Azerbaijan.html
@@ -976,7 +976,7 @@ DTEND;TZID=America/Toronto;VALUE=DATE-TIME:20220617T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1113
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Canadian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Canada.html  Want to get tracks
@@ -984,7 +984,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit Gilles-Villeneuve
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Canada.html
@@ -997,7 +997,7 @@ DTEND;TZID=America/Toronto;VALUE=DATE-TIME:20220617T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1113
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Canadian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Canada.html  Want to get tracks
@@ -1005,7 +1005,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit Gilles-Villeneuve
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Canada.html
@@ -1018,7 +1018,7 @@ DTEND;TZID=America/Toronto;VALUE=DATE-TIME:20220618T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1113
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Canadian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Canada.html  Want to get tracks
@@ -1026,7 +1026,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit Gilles-Villeneuve
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Canada.html
@@ -1039,7 +1039,7 @@ DTEND;TZID=America/Toronto;VALUE=DATE-TIME:20220618T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1113
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Canadian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Canada.html  Want to get tracks
@@ -1047,7 +1047,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit Gilles-Villeneuve
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Canada.html
@@ -1060,7 +1060,7 @@ DTEND;TZID=America/Toronto;VALUE=DATE-TIME:20220619T160000
 DTSTAMP:20210311T000001Z
 UID:Race@1113
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Canadian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Canada.html  Want to get tracks
@@ -1068,7 +1068,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit Gilles-Villeneuve
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Canada.html
@@ -1081,7 +1081,7 @@ DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220701T140000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1114
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the British Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Great_Britain.html  Want to get 
@@ -1089,7 +1089,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Silverstone Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Great_Britain.html
@@ -1102,7 +1102,7 @@ DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220701T170000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1114
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the British Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Great_Britain.html  Want to get 
@@ -1110,7 +1110,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Silverstone Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Great_Britain.html
@@ -1123,7 +1123,7 @@ DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220702T130000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1114
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the British Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Great_Britain.html  Want to get 
@@ -1131,7 +1131,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Silverstone Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Great_Britain.html
@@ -1144,7 +1144,7 @@ DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220702T160000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1114
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the British Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Great_Britain.html  Want to get 
@@ -1152,7 +1152,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Silverstone Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Great_Britain.html
@@ -1165,7 +1165,7 @@ DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220703T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1114
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the British Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Great_Britain.html  Want to get 
@@ -1173,7 +1173,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  latest F1 news and content\, direct to your inbox. Sign up to the newslett
  er here: https://account.formula1.com/#/en/register
 LOCATION:Silverstone Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Great_Britain.html
@@ -1186,7 +1186,7 @@ DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20220708T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1115
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Austrian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Austria.html  Want to get track
@@ -1194,7 +1194,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  t F1 news and content\, direct to your inbox. Sign up to the newsletter he
  re: https://account.formula1.com/#/en/register
 LOCATION:Red Bull Ring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Austria.html
@@ -1207,7 +1207,7 @@ DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20220708T180000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1115
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Austrian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Austria.html  Want to get track
@@ -1215,7 +1215,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  t F1 news and content\, direct to your inbox. Sign up to the newsletter he
  re: https://account.formula1.com/#/en/register
 LOCATION:Red Bull Ring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Austria.html
@@ -1228,7 +1228,7 @@ DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20220709T133000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1115
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Austrian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Austria.html  Want to get track
@@ -1236,7 +1236,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  t F1 news and content\, direct to your inbox. Sign up to the newsletter he
  re: https://account.formula1.com/#/en/register
 LOCATION:Red Bull Ring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Austria.html
@@ -1249,7 +1249,7 @@ DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20220709T173000
 DTSTAMP:20210311T000001Z
 UID:Sprint@1115
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Austrian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Austria.html  Want to get track
@@ -1257,7 +1257,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  t F1 news and content\, direct to your inbox. Sign up to the newsletter he
  re: https://account.formula1.com/#/en/register
 LOCATION:Red Bull Ring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Austria.html
@@ -1270,7 +1270,7 @@ DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20220710T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1115
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Austrian Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Austria.html  Want to get track
@@ -1278,7 +1278,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  t F1 news and content\, direct to your inbox. Sign up to the newsletter he
  re: https://account.formula1.com/#/en/register
 LOCATION:Red Bull Ring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Austria.html
@@ -1291,7 +1291,7 @@ DTEND;TZID=Europe/Paris;VALUE=DATE-TIME:20220722T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1116
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the French Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/France.html  Want to get tracksid
@@ -1299,7 +1299,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit Paul Ricard
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/France.html
@@ -1312,7 +1312,7 @@ DTEND;TZID=Europe/Paris;VALUE=DATE-TIME:20220722T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1116
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the French Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/France.html  Want to get tracksid
@@ -1320,7 +1320,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit Paul Ricard
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/France.html
@@ -1333,7 +1333,7 @@ DTEND;TZID=Europe/Paris;VALUE=DATE-TIME:20220723T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1116
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the French Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/France.html  Want to get tracksid
@@ -1341,7 +1341,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit Paul Ricard
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/France.html
@@ -1354,7 +1354,7 @@ DTEND;TZID=Europe/Paris;VALUE=DATE-TIME:20220723T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1116
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the French Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/France.html  Want to get tracksid
@@ -1362,7 +1362,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit Paul Ricard
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/France.html
@@ -1375,7 +1375,7 @@ DTEND;TZID=Europe/Paris;VALUE=DATE-TIME:20220724T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1116
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the French Grand Prix. Visit the Race hub here:
   https://www.formula1.com/en/racing/2022/France.html  Want to get tracksid
@@ -1383,7 +1383,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Circuit Paul Ricard
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/France.html
@@ -1396,7 +1396,7 @@ DTEND;TZID=Europe/Budapest;VALUE=DATE-TIME:20220729T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1117
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Hungarian Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Hungary.html  Want to get trac
@@ -1404,7 +1404,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Hungaroring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Hungary.html
@@ -1417,7 +1417,7 @@ DTEND;TZID=Europe/Budapest;VALUE=DATE-TIME:20220729T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1117
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Hungarian Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Hungary.html  Want to get trac
@@ -1425,7 +1425,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Hungaroring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Hungary.html
@@ -1438,7 +1438,7 @@ DTEND;TZID=Europe/Budapest;VALUE=DATE-TIME:20220730T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1117
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Hungarian Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Hungary.html  Want to get trac
@@ -1446,7 +1446,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Hungaroring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Hungary.html
@@ -1459,7 +1459,7 @@ DTEND;TZID=Europe/Budapest;VALUE=DATE-TIME:20220730T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1117
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Hungarian Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Hungary.html  Want to get trac
@@ -1467,7 +1467,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Hungaroring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Hungary.html
@@ -1480,7 +1480,7 @@ DTEND;TZID=Europe/Budapest;VALUE=DATE-TIME:20220731T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1117
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Hungarian Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Hungary.html  Want to get trac
@@ -1488,7 +1488,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Hungaroring
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Hungary.html
@@ -1501,7 +1501,7 @@ DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220826T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1118
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Belgian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Belgium.html  Want to get tracks
@@ -1509,7 +1509,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit de Spa-Francorchamps
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Belgium.html
@@ -1522,7 +1522,7 @@ DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220826T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1118
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Belgian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Belgium.html  Want to get tracks
@@ -1530,7 +1530,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit de Spa-Francorchamps
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Belgium.html
@@ -1543,7 +1543,7 @@ DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220827T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1118
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Belgian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Belgium.html  Want to get tracks
@@ -1551,7 +1551,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit de Spa-Francorchamps
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Belgium.html
@@ -1564,7 +1564,7 @@ DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220827T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1118
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Belgian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Belgium.html  Want to get tracks
@@ -1572,7 +1572,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit de Spa-Francorchamps
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Belgium.html
@@ -1585,7 +1585,7 @@ DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220828T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1118
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Belgian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Belgium.html  Want to get tracks
@@ -1593,7 +1593,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   F1 news and content\, direct to your inbox. Sign up to the newsletter her
  e: https://account.formula1.com/#/en/register
 LOCATION:Circuit de Spa-Francorchamps
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Belgium.html
@@ -1606,7 +1606,7 @@ DTEND;TZID=Europe/Amsterdam;VALUE=DATE-TIME:20220902T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1119
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Dutch Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Netherlands.html  Want to get trac
@@ -1614,7 +1614,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Circuit Zandvoort
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Netherlands.html
@@ -1627,7 +1627,7 @@ DTEND;TZID=Europe/Amsterdam;VALUE=DATE-TIME:20220902T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1119
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Dutch Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Netherlands.html  Want to get trac
@@ -1635,7 +1635,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Circuit Zandvoort
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Netherlands.html
@@ -1648,7 +1648,7 @@ DTEND;TZID=Europe/Amsterdam;VALUE=DATE-TIME:20220903T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1119
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Dutch Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Netherlands.html  Want to get trac
@@ -1656,7 +1656,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Circuit Zandvoort
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Netherlands.html
@@ -1669,7 +1669,7 @@ DTEND;TZID=Europe/Amsterdam;VALUE=DATE-TIME:20220903T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1119
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Dutch Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Netherlands.html  Want to get trac
@@ -1677,7 +1677,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Circuit Zandvoort
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Netherlands.html
@@ -1690,7 +1690,7 @@ DTEND;TZID=Europe/Amsterdam;VALUE=DATE-TIME:20220904T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1119
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Dutch Grand Prix. Visit the Race hub here: 
  https://www.formula1.com/en/racing/2022/Netherlands.html  Want to get trac
@@ -1698,7 +1698,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Circuit Zandvoort
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Netherlands.html
@@ -1711,7 +1711,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220909T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1120
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Italian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Italy.html  Want to get tracksid
@@ -1719,7 +1719,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Autodromo Nazionale Monza
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Italy.html
@@ -1732,7 +1732,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220909T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1120
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Italian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Italy.html  Want to get tracksid
@@ -1740,7 +1740,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Autodromo Nazionale Monza
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Italy.html
@@ -1753,7 +1753,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220910T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1120
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Italian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Italy.html  Want to get tracksid
@@ -1761,7 +1761,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Autodromo Nazionale Monza
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Italy.html
@@ -1774,7 +1774,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220910T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1120
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Italian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Italy.html  Want to get tracksid
@@ -1782,7 +1782,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Autodromo Nazionale Monza
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Italy.html
@@ -1795,7 +1795,7 @@ DTEND;TZID=Europe/Rome;VALUE=DATE-TIME:20220911T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1120
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Italian Grand Prix. Visit the Race hub here
  : https://www.formula1.com/en/racing/2022/Italy.html  Want to get tracksid
@@ -1803,7 +1803,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  1 news and content\, direct to your inbox. Sign up to the newsletter here:
   https://account.formula1.com/#/en/register
 LOCATION:Autodromo Nazionale Monza
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Italy.html
@@ -1816,7 +1816,7 @@ DTEND;TZID=Asia/Singapore;VALUE=DATE-TIME:20220930T190000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1133
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Singapore Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Singapore.html  Want to get tr
@@ -1824,7 +1824,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  test F1 news and content\, direct to your inbox. Sign up to the newsletter
   here: https://account.formula1.com/#/en/register
 LOCATION:Marina Bay Street Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Singapore.html
@@ -1837,7 +1837,7 @@ DTEND;TZID=Asia/Singapore;VALUE=DATE-TIME:20220930T220000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1133
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Singapore Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Singapore.html  Want to get tr
@@ -1845,7 +1845,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  test F1 news and content\, direct to your inbox. Sign up to the newsletter
   here: https://account.formula1.com/#/en/register
 LOCATION:Marina Bay Street Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Singapore.html
@@ -1858,7 +1858,7 @@ DTEND;TZID=Asia/Singapore;VALUE=DATE-TIME:20221001T190000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1133
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Singapore Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Singapore.html  Want to get tr
@@ -1866,7 +1866,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  test F1 news and content\, direct to your inbox. Sign up to the newsletter
   here: https://account.formula1.com/#/en/register
 LOCATION:Marina Bay Street Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Singapore.html
@@ -1879,7 +1879,7 @@ DTEND;TZID=Asia/Singapore;VALUE=DATE-TIME:20221001T220000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1133
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Singapore Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Singapore.html  Want to get tr
@@ -1887,7 +1887,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  test F1 news and content\, direct to your inbox. Sign up to the newsletter
   here: https://account.formula1.com/#/en/register
 LOCATION:Marina Bay Street Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Singapore.html
@@ -1900,7 +1900,7 @@ DTEND;TZID=Asia/Singapore;VALUE=DATE-TIME:20221002T220000
 DTSTAMP:20210311T000001Z
 UID:Race@1133
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Singapore Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Singapore.html  Want to get tr
@@ -1908,7 +1908,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  test F1 news and content\, direct to your inbox. Sign up to the newsletter
   here: https://account.formula1.com/#/en/register
 LOCATION:Marina Bay Street Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Singapore.html
@@ -1921,7 +1921,7 @@ DTEND;TZID=Asia/Tokyo;VALUE=DATE-TIME:20221007T140000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1134
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Japanese Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Japan.html  Want to get tracksi
@@ -1929,7 +1929,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  F1 news and content\, direct to your inbox. Sign up to the newsletter here
  : https://account.formula1.com/#/en/register
 LOCATION:Suzuka International Racing Course
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Japan.html
@@ -1942,7 +1942,7 @@ DTEND;TZID=Asia/Tokyo;VALUE=DATE-TIME:20221007T170000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1134
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Japanese Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Japan.html  Want to get tracksi
@@ -1950,7 +1950,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  F1 news and content\, direct to your inbox. Sign up to the newsletter here
  : https://account.formula1.com/#/en/register
 LOCATION:Suzuka International Racing Course
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Japan.html
@@ -1963,7 +1963,7 @@ DTEND;TZID=Asia/Tokyo;VALUE=DATE-TIME:20221008T140000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1134
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Japanese Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Japan.html  Want to get tracksi
@@ -1971,7 +1971,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  F1 news and content\, direct to your inbox. Sign up to the newsletter here
  : https://account.formula1.com/#/en/register
 LOCATION:Suzuka International Racing Course
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Japan.html
@@ -1984,7 +1984,7 @@ DTEND;TZID=Asia/Tokyo;VALUE=DATE-TIME:20221008T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1134
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Japanese Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Japan.html  Want to get tracksi
@@ -1992,7 +1992,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  F1 news and content\, direct to your inbox. Sign up to the newsletter here
  : https://account.formula1.com/#/en/register
 LOCATION:Suzuka International Racing Course
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Japan.html
@@ -2005,7 +2005,7 @@ DTEND;TZID=Asia/Tokyo;VALUE=DATE-TIME:20221009T160000
 DTSTAMP:20210311T000001Z
 UID:Race@1134
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Japanese Grand Prix. Visit the Race hub her
  e: https://www.formula1.com/en/racing/2022/Japan.html  Want to get tracksi
@@ -2013,7 +2013,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  F1 news and content\, direct to your inbox. Sign up to the newsletter here
  : https://account.formula1.com/#/en/register
 LOCATION:Suzuka International Racing Course
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Japan.html
@@ -2026,7 +2026,7 @@ DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20221021T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1135
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the United States Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/United_States.html  Want t
@@ -2035,7 +2035,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  wsletter here: https://account.formula1.com/#/en/register
 GEO:30.1345808;-97.6358511
 LOCATION:Circuit of The Americas
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_States.html
@@ -2048,7 +2048,7 @@ DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20221020T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1135
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the United States Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/United_States.html  Want t
@@ -2057,7 +2057,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  wsletter here: https://account.formula1.com/#/en/register
 GEO:30.1345808;-97.6358511
 LOCATION:Circuit of The Americas
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_States.html
@@ -2070,7 +2070,7 @@ DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20221022T150000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1135
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the United States Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/United_States.html  Want t
@@ -2079,7 +2079,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  wsletter here: https://account.formula1.com/#/en/register
 GEO:30.1345808;-97.6358511
 LOCATION:Circuit of The Americas
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_States.html
@@ -2092,7 +2092,7 @@ DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20221021T180000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1135
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the United States Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/United_States.html  Want t
@@ -2101,7 +2101,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  wsletter here: https://account.formula1.com/#/en/register
 GEO:30.1345808;-97.6358511
 LOCATION:Circuit of The Americas
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_States.html
@@ -2114,7 +2114,7 @@ DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20221023T160000
 DTSTAMP:20210311T000001Z
 UID:Race@1135
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the United States Grand Prix. Visit the Race hu
  b here: https://www.formula1.com/en/racing/2022/United_States.html  Want t
@@ -2123,7 +2123,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  wsletter here: https://account.formula1.com/#/en/register
 GEO:30.1345808;-97.6358511
 LOCATION:Circuit of The Americas
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_States.html
@@ -2136,7 +2136,7 @@ DTEND;TZID=America/Mexico_City;VALUE=DATE-TIME:20221028T140000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1136
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Mexico City Grand Prix. Visit the Race hub 
  here: https://www.formula1.com/en/racing/2022/Mexico.html  Want to get tra
@@ -2144,7 +2144,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  est F1 news and content\, direct to your inbox. Sign up to the newsletter 
  here: https://account.formula1.com/#/en/register
 LOCATION:Autódromo Hermanos Rodríguez
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Mexico.html
@@ -2157,7 +2157,7 @@ DTEND;TZID=America/Mexico_City;VALUE=DATE-TIME:20221028T170000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1136
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Mexico City Grand Prix. Visit the Race hub 
  here: https://www.formula1.com/en/racing/2022/Mexico.html  Want to get tra
@@ -2165,7 +2165,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  est F1 news and content\, direct to your inbox. Sign up to the newsletter 
  here: https://account.formula1.com/#/en/register
 LOCATION:Autódromo Hermanos Rodríguez
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Mexico.html
@@ -2178,7 +2178,7 @@ DTEND;TZID=America/Mexico_City;VALUE=DATE-TIME:20221029T130000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1136
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Mexico City Grand Prix. Visit the Race hub 
  here: https://www.formula1.com/en/racing/2022/Mexico.html  Want to get tra
@@ -2186,7 +2186,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  est F1 news and content\, direct to your inbox. Sign up to the newsletter 
  here: https://account.formula1.com/#/en/register
 LOCATION:Autódromo Hermanos Rodríguez
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Mexico.html
@@ -2199,7 +2199,7 @@ DTEND;TZID=America/Mexico_City;VALUE=DATE-TIME:20221029T160000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1136
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Mexico City Grand Prix. Visit the Race hub 
  here: https://www.formula1.com/en/racing/2022/Mexico.html  Want to get tra
@@ -2207,7 +2207,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  est F1 news and content\, direct to your inbox. Sign up to the newsletter 
  here: https://account.formula1.com/#/en/register
 LOCATION:Autódromo Hermanos Rodríguez
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Mexico.html
@@ -2220,7 +2220,7 @@ DTEND;TZID=America/Mexico_City;VALUE=DATE-TIME:20221030T160000
 DTSTAMP:20210311T000001Z
 UID:Race@1136
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Mexico City Grand Prix. Visit the Race hub 
  here: https://www.formula1.com/en/racing/2022/Mexico.html  Want to get tra
@@ -2228,7 +2228,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  est F1 news and content\, direct to your inbox. Sign up to the newsletter 
  here: https://account.formula1.com/#/en/register
 LOCATION:Autódromo Hermanos Rodríguez
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Mexico.html
@@ -2241,7 +2241,7 @@ DTEND;TZID=America/Sao_Paulo;VALUE=DATE-TIME:20221111T133000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1137
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the São Paulo Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Brazil.html  Want to get trac
@@ -2249,7 +2249,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Autódromo José Carlos Pace
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Brazil.html
@@ -2262,7 +2262,7 @@ DTEND;TZID=America/Sao_Paulo;VALUE=DATE-TIME:20221111T170000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1137
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the São Paulo Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Brazil.html  Want to get trac
@@ -2270,7 +2270,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Autódromo José Carlos Pace
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Brazil.html
@@ -2283,7 +2283,7 @@ DTEND;TZID=America/Sao_Paulo;VALUE=DATE-TIME:20221112T133000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1137
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the São Paulo Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Brazil.html  Want to get trac
@@ -2291,7 +2291,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Autódromo José Carlos Pace
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Brazil.html
@@ -2304,7 +2304,7 @@ DTEND;TZID=America/Sao_Paulo;VALUE=DATE-TIME:20221112T173000
 DTSTAMP:20210311T000001Z
 UID:Sprint@1137
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the São Paulo Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Brazil.html  Want to get trac
@@ -2312,7 +2312,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Autódromo José Carlos Pace
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Brazil.html
@@ -2325,7 +2325,7 @@ DTEND;TZID=America/Sao_Paulo;VALUE=DATE-TIME:20221113T170000
 DTSTAMP:20210311T000001Z
 UID:Race@1137
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the São Paulo Grand Prix. Visit the Race hub h
  ere: https://www.formula1.com/en/racing/2022/Brazil.html  Want to get trac
@@ -2333,7 +2333,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  st F1 news and content\, direct to your inbox. Sign up to the newsletter h
  ere: https://account.formula1.com/#/en/register
 LOCATION:Autódromo José Carlos Pace
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Brazil.html
@@ -2346,7 +2346,7 @@ DTEND;TZID=Asia/Dubai;VALUE=DATE-TIME:20221118T150000
 DTSTAMP:20210311T000001Z
 UID:Practice1@1138
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Abu Dhabi Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html  Wan
@@ -2354,7 +2354,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   Get the latest F1 news and content\, direct to your inbox. Sign up to the
   newsletter here: https://account.formula1.com/#/en/register
 LOCATION:Yas Marina Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html
@@ -2367,7 +2367,7 @@ DTEND;TZID=Asia/Dubai;VALUE=DATE-TIME:20221118T180000
 DTSTAMP:20210311T000001Z
 UID:Practice2@1138
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Abu Dhabi Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html  Wan
@@ -2375,7 +2375,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   Get the latest F1 news and content\, direct to your inbox. Sign up to the
   newsletter here: https://account.formula1.com/#/en/register
 LOCATION:Yas Marina Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html
@@ -2388,7 +2388,7 @@ DTEND;TZID=Asia/Dubai;VALUE=DATE-TIME:20221119T160000
 DTSTAMP:20210311T000001Z
 UID:Practice3@1138
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Abu Dhabi Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html  Wan
@@ -2396,7 +2396,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   Get the latest F1 news and content\, direct to your inbox. Sign up to the
   newsletter here: https://account.formula1.com/#/en/register
 LOCATION:Yas Marina Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html
@@ -2409,7 +2409,7 @@ DTEND;TZID=Asia/Dubai;VALUE=DATE-TIME:20221119T190000
 DTSTAMP:20210311T000001Z
 UID:Qualifying@1138
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Abu Dhabi Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html  Wan
@@ -2417,7 +2417,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
   Get the latest F1 news and content\, direct to your inbox. Sign up to the
   newsletter here: https://account.formula1.com/#/en/register
 LOCATION:Yas Marina Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html
@@ -2430,7 +2430,7 @@ DTEND;TZID=Asia/Dubai;VALUE=DATE-TIME:20221120T190000
 DTSTAMP:20210311T000001Z
 UID:Race@1138
 SEQUENCE:0
-ATTENDEE;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ATTENDEE;CN="Formula 1";PARTSTAT=ACCEPTED:mailto:formula1@formula1.com
 DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  mula1.com Learn more about the Abu Dhabi Grand Prix. Visit the Race hub he
  re: https://www.formula1.com/en/racing/2022/Singapore.html  Want to get tr
@@ -2438,7 +2438,7 @@ DESCRIPTION:Follow all the action on F1 TV. Tune in here: https://f1tv.for
  test F1 news and content\, direct to your inbox. Sign up to the newsletter
   here: https://account.formula1.com/#/en/register
 LOCATION:Yas Marina Circuit
-ORGANIZER;CN="Formula 1";RSVP=TRUE:mailto:formula1@formula1.com
+ORGANIZER;CN="Formula 1":mailto:formula1@formula1.com
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.formula1.com/en/racing/2022/Singapore.html
