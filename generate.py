@@ -168,7 +168,7 @@ for event in original_cal.walk(name="VEVENT"):
 
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.4.6
     urls = re.findall(
-        r"(https?://www.formula1.com/en/racing\S+)", str(event["description"]).strip()
+        r"(https?://www\.formula1.com/en/racing\S+)", str(event["description"]).strip()
     )
     if urls:
         e.add("url", urls[0])
