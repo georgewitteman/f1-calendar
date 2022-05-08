@@ -1,4 +1,0 @@
-black
-icalendar~=4.0
-pytz
-titlecase~=2.3
