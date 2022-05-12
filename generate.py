@@ -121,7 +121,9 @@ locations = {
 }
 
 for tz in [loc["tz"] for loc in locations.values()]:
-    with urllib.request.urlopen(f"https://static.tzurl.org/zoneinfo/{tz}.ics") as f:
+    # Use the Outlook compatible timezones.
+    # https://github.com/ical4j/tzurl/tree/develop/vzic/vzic-fork
+    with urllib.request.urlopen(f"https://static.tzurl.org/zoneinfo-outlook/{tz}.ics") as f:
         tz_cal = Calendar.from_ical(f.read())
         for vtimezone in tz_cal.walk("VTIMEZONE"):
             c.add_component(vtimezone)
