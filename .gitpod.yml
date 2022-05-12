@@ -1,7 +1,7 @@
 ---
 tasks:
-  - before: |
-      pyenv install 3.10.4
+  - init: >
+      pyenv install 3.10.4 &&
+      pyenv global 3.10.4 &&
       curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
-    init: pyenv global 3.10.4
     command: python --version
