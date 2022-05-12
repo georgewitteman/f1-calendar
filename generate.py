@@ -201,7 +201,7 @@ with open("full.ics", "wb") as f:
     # "Content lines are delimited by a line break, which is a CRLF sequence (CR
     # character followed by LF character)." -
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.1
-    # 
+    #
     # This is done automatically by the library. This may result in ^M showing
     # up in 'git diff' output. This is okay.
     f.write(c.to_ical(sorted=True))
