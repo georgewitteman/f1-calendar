@@ -180,7 +180,7 @@ for event in original_cal.walk(name="VEVENT"):
         r"(https?://www\.formula1.com/en/racing\S+)", str(event["description"]).strip()
     )
     if urls:
-        e.add("url", urls[0])
+        e.add("url", urls[0], {"VALUE": "URI"})
 
     location_str = str(event["location"]).strip()
     location = locations[location_str]
@@ -198,4 +198,10 @@ for event in original_cal.walk(name="VEVENT"):
 
 
 with open("full.ics", "wb") as f:
+    # "Content lines are delimited by a line break, which is a CRLF sequence (CR
+    # character followed by LF character)." -
+    # https://datatracker.ietf.org/doc/html/rfc5545#section-3.1
+    # 
+    # This is done automatically by the library. This may result in ^M showing
+    # up in 'git diff' output. This is okay.
     f.write(c.to_ical(sorted=True))
