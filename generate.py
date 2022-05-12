@@ -20,7 +20,7 @@ c.add("version", "2.0")
 c.add("prodid", "+//IDN georgewitteman.com//Formula 1 Calendar//EN")
 # Formula 1 color from their website
 c.add("X-APPLE-CALENDAR-COLOR", "#E10600")
-c.add("X-WR-CALNAME", original_cal["X-WR-CALNAME"])
+c.add("X-WR-CALNAME", original_cal["X-WR-CALNAME"].replace("Formula One", "Formula 1"))
 
 # Time zone finder: https://www.zeitverschiebung.net/en/
 locations = {
