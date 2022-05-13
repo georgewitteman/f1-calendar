@@ -130,6 +130,18 @@ for tz in [loc["tz"] for loc in locations.values()]:
         for vtimezone in tz_cal.walk("VTIMEZONE"):
             c.add_component(vtimezone)
 
+
+def format_summary(original_summary: str) -> str:
+    orig_summary = original_summary.lower()
+    summary_without_prefix = orig_summary.removeprefix("formula 1").strip()
+    event_name, session_name = summary_without_prefix.split(" - ", maxsplit=1)
+    event_name_without_year = event_name.removesuffix(
+        str(event["dtstart"].dt.year)
+    ).strip()
+    title_cased = titlecase(f"{session_name} ({event_name_without_year})".lower())
+    return title_cased.replace("crypto.com", "Crypto.com")
+
+
 for event in original_cal.walk(name="VEVENT"):
     e = Event()
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.7.2
@@ -167,13 +179,7 @@ for event in original_cal.walk(name="VEVENT"):
         e.add("last-modified", event["last-modified"])
 
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.1.12
-    orig_summary = str(event["summary"]).lower()
-    summary_without_prefix = orig_summary.removeprefix("formula 1").strip()
-    event_name, session_name = summary_without_prefix.split(" - ", maxsplit=1)
-    event_name_without_year = event_name.removesuffix(
-        str(event["dtstart"].dt.year)
-    ).strip()
-    e.add("summary", titlecase(f"{session_name} ({event_name_without_year})".lower()))
+    e.add("summary", format_summary(str(event["summary"])))
 
     # https://datatracker.ietf.org/doc/html/rfc5545#section-3.8.4.6
     urls = re.findall(
