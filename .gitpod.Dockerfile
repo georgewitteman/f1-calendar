@@ -1,6 +1,5 @@
 # hadolint ignore=DL3007
-FROM gitpod/workspace-full:latest
+FROM gitpod/workspace-python-3.10:latest
 
-RUN pyenv install 3.10.4 && pyenv global 3.10.4
 # hadolint ignore=DL4006
 RUN curl -sSL https://install.python-poetry.org | POETRY_HOME="${HOME}/.poetry" python3 - --yes --force
