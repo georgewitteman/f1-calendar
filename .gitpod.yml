@@ -1,3 +1,7 @@
 ---
 image:
   file: .gitpod.Dockerfile
+
+github:
+  prebuilds:
+    addBadge: true
