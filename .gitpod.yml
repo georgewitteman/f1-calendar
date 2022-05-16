@@ -1,6 +1,5 @@
 ---
-image:
-  file: .gitpod.Dockerfile
+image: gitpod/workspace-python-3.10:latest
 
 github:
   prebuilds:
@@ -8,4 +7,6 @@ github:
 
 tasks:
   - name: Install dependencies
+    before: |
+      curl -sSL https://install.python-poetry.org | POETRY_HOME="${HOME}/.poetry" python3 - --yes --force
     command: poetry install
