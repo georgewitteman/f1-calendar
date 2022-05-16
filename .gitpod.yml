@@ -1,4 +1,3 @@
 ---
-tasks:
-  - name: Init
-    init: python --version
+image:
+  file: .gitpod.Dockerfile
