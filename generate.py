@@ -6,7 +6,7 @@ from icalendar import Calendar, Event
 from titlecase import titlecase
 
 with urllib.request.urlopen(
-    "https://www.formula1.com/calendar/Formula_1_Official_Calendar.ics"
+    "https://ics.ecal.com/ecal-sub/63fe8e4ed716bf000d3117ca/Formula%201.ics"
 ) as f:
     original_cal = Calendar.from_ical(f.read())
 
